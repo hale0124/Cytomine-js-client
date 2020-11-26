@@ -18,6 +18,7 @@ export default class User extends Model {
     this.lastname = null;
     this.username = null;
     this.email = null;
+    this.lifetime = null;
 
     this.color = null;
 
